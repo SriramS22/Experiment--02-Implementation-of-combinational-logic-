@@ -62,14 +62,14 @@ endmodule
 ![image](https://github.com/SriramS22/Experiment--02-Implementation-of-combinational-logic-/assets/119094390/467357f4-517c-4617-9dba-46c89ae11392)
 
 ## Timing Diagram
-![Uploading image.png…]()
+https://user-images.githubusercontent.com/93427254/243377392-b09e5fea-aa3b-4ee3-903f-f4d06b30c353.png
 
 ## F2:
 ## RTL realization
-![Uploading image.png…]()
+https://user-images.githubusercontent.com/93427254/243377377-ac278eda-5a27-4658-a1ff-7bba9f8decf9.png
 
 ## Timing Diagram
-![Uploading image.png…]()
+https://user-images.githubusercontent.com/93427254/243377418-ab8302e6-9378-4200-8d04-914b9b312f1f.png
 
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
